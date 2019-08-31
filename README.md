@@ -24,6 +24,8 @@ To formulate the transition matrix, the sum of each element is divided by the su
 
 The stationary distribution of the transition matrix is computed, and the team ranks is given below. The New England Patriots are the strongest team, while the San Francisco 49ers are the weakest team.
 
-The table below shows the rankings based on the two methods. The matrices generated and used in the ranking process and the R code can also be found below.
+The table below shows the rankings based on the two methods.
+
+![Ranking Table](https://github.com/wenodey2/NFL2007Ranking/edit/master/RankingTable.JPG)
 
 
