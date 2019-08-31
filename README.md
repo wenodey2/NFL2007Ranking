@@ -26,6 +26,6 @@ The stationary distribution of the transition matrix is computed, and the team r
 
 The table below shows the rankings based on the two methods.
 
-![Ranking Table](https://github.com/wenodey2/NFL2007Ranking/edit/master/RankingTable.JPG)
+![Rankings Table](https://github.com/wenodey2/NFL2007Ranking/edit/master/RankingTable.JPG)
 
 
